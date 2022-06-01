@@ -14,9 +14,8 @@ on:
   status: {}
 
 jobs:
-  build:
+  automerge:
     runs-on: ubuntu-latest
-
     steps:
       - name: automerge
         uses: pascalgn/automerge-action@v0.15.3
