@@ -1,5 +1,0 @@
-{
-    "schedule": "daily", //每天
-    "aggressiveCompression": "true", //有损压缩
-    "minKBReduced": 50, //小于50kb的图片不会被压缩
-}
