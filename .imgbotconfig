@@ -1,0 +1,4 @@
+{
+    "schedule": "daily", // 执行周期 daily|weekly|monthly
+    "aggressiveCompression": "true" // 使用有损压缩 true|false
+}
